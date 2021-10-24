@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jeeves148
+- 👀 I’m interested in skateboarding , music , surfing and nerdy tech stuff
+- 🌱 I’m currently learning react and unity
+- 💞️ I’m looking to collaborate on game and web dev
+- 📫 How to reach me @JeevesThatGuy on twitter or thundercloudcomics148@gmail.com
