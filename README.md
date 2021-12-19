@@ -1,5 +1,1 @@
--AYYO @jeeves148
--I like skateboarding , music , surfing and nerdy tech stuff
--I’m currently learning react and unity
--Looking for really awful devs so I don't feel bad about my crappy code.
--How to reach me @JeevesThatGuy on twitter or thundercloudcomics148@gmail.com
+hi
